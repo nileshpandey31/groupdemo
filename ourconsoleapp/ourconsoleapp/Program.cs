@@ -12,9 +12,14 @@ namespace ourconsoleapp
         {
             Console.WriteLine("hey from nilesh!! Great to work with u guys!!");
         }
+        public static void nupur()
+        {
+            Console.WriteLine("Hi guys nupur! here");
+        }
         static void Main(string[] args)
         {
             nilesh();
+            nupur();
             Console.Read();
         }
     }
