@@ -8,8 +8,14 @@ namespace ourconsoleapp
 {
     class Program
     {
+        public static void nilesh()
+        {
+            Console.WriteLine("hey from nilesh!! Great to work with u guys!!");
+        }
         static void Main(string[] args)
         {
+            nilesh();
+            Console.Read();
         }
     }
 }
