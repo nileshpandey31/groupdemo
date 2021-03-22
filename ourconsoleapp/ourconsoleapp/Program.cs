@@ -21,11 +21,18 @@ namespace ourconsoleapp
         {
             Console.WriteLine("Hi guys rinky! here");
         }
+
+        public static void pratiksha()
+        {
+            Console.WriteLine("Hi guys pratiksha! here");
+        }
+
         static void Main(string[] args)
         {
             nilesh();
             nupur();
             rinky();
+            pratiksha();
             Console.Read();
         }
     }

@@ -5,3 +5,10 @@ C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\obj\D
 C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.csproj.CoreCompileInputs.cache
 C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.exe
 C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.pdb
+D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\bin\Debug\ourconsoleapp.exe.config
+D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\bin\Debug\ourconsoleapp.exe
+D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\bin\Debug\ourconsoleapp.pdb
+D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.csprojAssemblyReference.cache
+D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.csproj.CoreCompileInputs.cache
+D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.exe
+D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.pdb
