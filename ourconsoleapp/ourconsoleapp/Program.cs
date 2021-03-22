@@ -16,10 +16,16 @@ namespace ourconsoleapp
         {
             Console.WriteLine("Hi guys nupur! here");
         }
+       
+        public static void rinky()
+        {
+            Console.WriteLine("Hi guys rinky! here");
+        }
         static void Main(string[] args)
         {
             nilesh();
             nupur();
+            rinky();
             Console.Read();
         }
     }
