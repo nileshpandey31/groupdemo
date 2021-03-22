@@ -1,0 +1,7 @@
+C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\bin\Debug\ourconsoleapp.exe.config
+C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\bin\Debug\ourconsoleapp.exe
+C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\bin\Debug\ourconsoleapp.pdb
+C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.csprojAssemblyReference.cache
+C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.exe
+C:\Users\nilesh\Desktop\LNT TRAINING\groupdemo\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.pdb
