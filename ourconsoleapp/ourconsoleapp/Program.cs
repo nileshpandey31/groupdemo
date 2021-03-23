@@ -31,12 +31,17 @@ namespace ourconsoleapp
         {
             Console.WriteLine("jenkin demo");
         }
+        public static void nupurjenkin()
+        {
+            Console.WriteLine("nupur jenkin demo");
+        }
         static void Main(string[] args)
         {
             nilesh();
             nupur();
             rinky();
             pratiksha();
+            nupurjenkin();
             Console.Read();
         }
     }
