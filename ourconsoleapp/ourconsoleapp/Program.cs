@@ -27,6 +27,10 @@ namespace ourconsoleapp
             Console.WriteLine("Hi guys pratiksha! here");
         }
 
+        public static void nileshjenkin()
+        {
+            Console.WriteLine("jenkin demo");
+        }
         static void Main(string[] args)
         {
             nilesh();
