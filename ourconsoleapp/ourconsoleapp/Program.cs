@@ -40,6 +40,10 @@ namespace ourconsoleapp
         {
             Console.WriteLine("pratiksha jenkin demo");
         }
+        public static void rinkyjenkins()
+        {
+            Console.WriteLine("Rinky jenkins demo");
+        }
         static void Main(string[] args)
         {
             nilesh();
@@ -48,6 +52,7 @@ namespace ourconsoleapp
             pratiksha();
             nupurjenkin();
             pratikshajenkin();
+            rinkyjenkins();
             Console.Read();
         }
     }
