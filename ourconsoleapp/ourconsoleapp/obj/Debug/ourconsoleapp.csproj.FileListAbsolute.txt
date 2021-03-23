@@ -12,3 +12,10 @@ D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.csprojAs
 D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.csproj.CoreCompileInputs.cache
 D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.exe
 D:\LTI HTML\hojaaaa\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.pdb
+D:\LTI HTML\clonejenkin\ourconsoleapp\ourconsoleapp\bin\Debug\ourconsoleapp.exe.config
+D:\LTI HTML\clonejenkin\ourconsoleapp\ourconsoleapp\bin\Debug\ourconsoleapp.exe
+D:\LTI HTML\clonejenkin\ourconsoleapp\ourconsoleapp\bin\Debug\ourconsoleapp.pdb
+D:\LTI HTML\clonejenkin\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.csprojAssemblyReference.cache
+D:\LTI HTML\clonejenkin\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.csproj.CoreCompileInputs.cache
+D:\LTI HTML\clonejenkin\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.exe
+D:\LTI HTML\clonejenkin\ourconsoleapp\ourconsoleapp\obj\Debug\ourconsoleapp.pdb
